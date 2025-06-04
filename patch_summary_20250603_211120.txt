@@ -1,0 +1,27 @@
+prplOS Patch Automation Summary
+===============================
+Timestamp: 20250603_211120
+Total Patches: 10
+Successful: 1
+Failed: 9
+Warnings: 7
+
+Failed Patches:
+001-network-enhancement.patch
+003-performance-optimization.patch
+004-System-Logging-Enhancement.patch
+005-UCI-Default-Values-Update.patch
+006-Build-System-Optimization.patch
+007-DHCP-Server-Enhancement.patch
+008-Kernel-Module-Loading-Priority.patch
+009-Web-Interface-Security-Headers.patch
+010-Performance-Monitoring-Integration.patch
+
+Warnings:
+Patch applies with offset: 002-security-hardening.patch
+Patch applied with fuzz: 003-performance-optimization.patch
+Patch applied with fuzz: 004-System-Logging-Enhancement.patch
+Patch applied with fuzz: 006-Build-System-Optimization.patch
+Patch applied with fuzz: 007-DHCP-Server-Enhancement.patch
+Patch applied with fuzz: 008-Kernel-Module-Loading-Priority.patch
+Patch applied with fuzz: 009-Web-Interface-Security-Headers.patch
